@@ -1,6 +1,7 @@
 body{
     display: flex;
     flex-flow: column wrap;
+    max-width: 960px;
     padding-right: 500px;
     padding-left: 500px;
     background: black;
